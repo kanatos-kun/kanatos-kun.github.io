@@ -1,0 +1,17 @@
+h1,
+.rubrique {
+  color: white;
+  text-align: center;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(30, 219, 52),
+    rgb(11, 202, 232)
+  );
+}
+.text-center {
+  text-align: center;
+}
+
+.rm-bullet {
+  list-style-type: none;
+}

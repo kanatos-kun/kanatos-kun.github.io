@@ -10,4 +10,4 @@ console.log("hello world");
  #### Titre 4
  __test__
  
-My personal portfolio & CVc
+My personal portfolio & CV

@@ -1,0 +1,7 @@
+baseURL = 'https://kanatos-kun.github.io/'
+languageCode = 'en-us'
+title = 'jojoffrey'
+theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

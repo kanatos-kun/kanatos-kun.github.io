@@ -1,18 +1,158 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jojoffrey</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on jojoffrey</description>
+    <title>Jojoffrey</title>
+    <link>/</link>
+    <description>Recent content on Jojoffrey</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 22:05:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jun 2025 12:54:38 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mouse_escape</title>
+      <link>/games/mouse_escape/</link>
+      <pubDate>Tue, 10 Jun 2025 12:54:38 +0200</pubDate>
+      <guid>/games/mouse_escape/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/6641649?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;1920&#34; height=&#34;1100&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/mouse-escape-game&#34;&gt;Play mouse escape game on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Chaos</title>
+      <link>/games/chaos/</link>
+      <pubDate>Tue, 10 Jun 2025 12:53:39 +0200</pubDate>
+      <guid>/games/chaos/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/6634546?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;600&#34; height=&#34;820&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/chaos&#34;&gt;Play Chaos on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Zurin_the_spirit_walker</title>
+      <link>/games/zurin_the_spirit_walker/</link>
+      <pubDate>Tue, 10 Jun 2025 12:52:33 +0200</pubDate>
+      <guid>/games/zurin_the_spirit_walker/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/3197465?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;640&#34; height=&#34;380&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/zurin-the-spirit-walker&#34;&gt;Play Zurin the spirit walker on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Diablo_demake_80</title>
+      <link>/games/diablo_demake_80/</link>
+      <pubDate>Tue, 10 Jun 2025 12:51:31 +0200</pubDate>
+      <guid>/games/diablo_demake_80/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/2091887?color=5a3a2d&#34; allowfullscreen=&#34;&#34; width=&#34;795&#34; height=&#34;455&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/diablo-demake-80-discontinued&#34;&gt;Play Diablo Demake 80 (Discontinued...) on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Moi_dans_une_superbe_aventure</title>
+      <link>/games/moi_dans_une_superbe_aventure/</link>
+      <pubDate>Tue, 10 Jun 2025 12:49:51 +0200</pubDate>
+      <guid>/games/moi_dans_une_superbe_aventure/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/2069163?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;1000&#34; height=&#34;1020&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/moidansunesuperbeaventure&#34;&gt;Play Moi dans une superbe aventure on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Super_ball_quest</title>
+      <link>/games/super_ball_quest/</link>
+      <pubDate>Tue, 10 Jun 2025 12:48:34 +0200</pubDate>
+      <guid>/games/super_ball_quest/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/1532924?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;450&#34; height=&#34;820&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/monster-vs-tiny-ball&#34;&gt;Play super ball quest on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Trouve_les_objets</title>
+      <link>/games/trouve_les_objets/</link>
+      <pubDate>Tue, 10 Jun 2025 12:45:58 +0200</pubDate>
+      <guid>/games/trouve_les_objets/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/1420042?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;800&#34; height=&#34;470&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/trouve-les-objets&#34;&gt;Play Trouve les objets on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Fighting_robot</title>
+      <link>/games/fighting_robot/</link>
+      <pubDate>Tue, 10 Jun 2025 12:43:39 +0200</pubDate>
+      <guid>/games/fighting_robot/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/1140752?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;1300&#34; height=&#34;1520&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/fighting-robot&#34;&gt;Play Fighting robot on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Potato_shot_up</title>
+      <link>/games/potato_shot_up/</link>
+      <pubDate>Tue, 10 Jun 2025 12:42:23 +0200</pubDate>
+      <guid>/games/potato_shot_up/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/781600?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;1280&#34; height=&#34;780&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/potatoes-shot-put&#34;&gt;Play Potatoes shot put on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>The_kid_in_the_snow</title>
+      <link>/games/the_kid_in_the_snow/</link>
+      <pubDate>Tue, 10 Jun 2025 12:39:22 +0200</pubDate>
+      <guid>/games/the_kid_in_the_snow/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/706253?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;550&#34; height=&#34;570&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/the-kid-in-the-snow&#34;&gt;Play The kid in the snow on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Space_shoom_rang</title>
+      <link>/games/space_shoom_rang/</link>
+      <pubDate>Tue, 10 Jun 2025 12:37:58 +0200</pubDate>
+      <guid>/games/space_shoom_rang/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/674410?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;900&#34; height=&#34;720&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/space-shoom-rang&#34;&gt;Play space shoom-rang on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Zombie_attack</title>
+      <link>/games/zombie_attack/</link>
+      <pubDate>Tue, 10 Jun 2025 12:36:34 +0200</pubDate>
+      <guid>/games/zombie_attack/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/653754?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;540&#34; height=&#34;640&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/zombie-attack&#34;&gt;Play zombie attack on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Warrior_machine</title>
+      <link>/games/warrior_machine/</link>
+      <pubDate>Tue, 10 Jun 2025 12:35:21 +0200</pubDate>
+      <guid>/games/warrior_machine/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/553747?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;920&#34; height=&#34;600&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/warrior-machine&#34;&gt;Play warrior_machine on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Election</title>
+      <link>/games/election/</link>
+      <pubDate>Tue, 10 Jun 2025 12:33:57 +0200</pubDate>
+      <guid>/games/election/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/525047?color=955e41&#34; allowfullscreen=&#34;&#34; width=&#34;920&#34; height=&#34;620&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/election&#34;&gt;Play election on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Radial_clicker</title>
+      <link>/games/radial_clicker/</link>
+      <pubDate>Tue, 10 Jun 2025 12:32:18 +0200</pubDate>
+      <guid>/games/radial_clicker/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/451216?color=303030&#34; allowfullscreen=&#34;&#34; width=&#34;620&#34; height=&#34;640&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/radial-clicker&#34;&gt;Play radial clicker on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Sugar_rush</title>
+      <link>/games/sugar_rush/</link>
+      <pubDate>Tue, 10 Jun 2025 12:30:48 +0200</pubDate>
+      <guid>/games/sugar_rush/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/380403?color=ffffff&#34; allowfullscreen=&#34;&#34; width=&#34;640&#34; height=&#34;660&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/sugar-rush&#34;&gt;Play sugar_rush on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Spooky_castle</title>
+      <link>/games/spooky_castle/</link>
+      <pubDate>Tue, 10 Jun 2025 12:29:13 +0200</pubDate>
+      <guid>/games/spooky_castle/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/382084?color=706b8f&#34; allowfullscreen=&#34;&#34; width=&#34;768&#34; height=&#34;670&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/spooky-castle&#34;&gt;Play Spooky castle on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Breaker</title>
+      <link>/games/breaker/</link>
+      <pubDate>Tue, 10 Jun 2025 10:49:55 +0200</pubDate>
+      <guid>/games/breaker/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/570436?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;1200&#34; height=&#34;720&#34;&gt;&lt;a href=&#34;https://kanatos.itch.io/breaker&#34;&gt;Play Breaker on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>/games/</link>
+      <pubDate>Tue, 10 Jun 2025 10:48:14 +0200</pubDate>
+      <guid>/games/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mouse_escape&#34;&gt;mouse escape&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./chaos&#34;&gt;chaos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./zurin_the_spirit_walker&#34;&gt;zurin the spirit walker&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./diablo_demake_80&#34;&gt;diablo demake 80&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./moi_dans_une_superbe_aventure&#34;&gt;moi dans une superbe aventure&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./super_ball_quest&#34;&gt;super ball quest&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./trouve_les_objets&#34;&gt;trouve les objets&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./fighting_robot&#34;&gt;fighting robot&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./potato_shot_up&#34;&gt;potato shot put&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./the_kid_in_the_snow&#34;&gt;the kid in the snow&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./breaker&#34;&gt;breaker&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./space_shoom_rang&#34;&gt;space shoom rang&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./zombie_attack&#34;&gt;zombie attack&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./warrior_machine&#34;&gt;warrior machine&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./election&#34;&gt;election&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./radial_clicker&#34;&gt;radial clicker&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./sugar_rush&#34;&gt;sugar rush&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./spooky_castle&#34;&gt;spooky castle&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 10 Jun 2025 10:44:35 +0200</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;this is about page&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Fri, 06 Jun 2025 22:05:33 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>

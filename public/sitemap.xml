@@ -2,17 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/</loc>
+    <lastmod>2025-06-10T12:54:38+02:00</lastmod>
+  </url><url>
+    <loc>/games/mouse_escape/</loc>
+    <lastmod>2025-06-10T12:54:38+02:00</lastmod>
+  </url><url>
+    <loc>/games/chaos/</loc>
+    <lastmod>2025-06-10T12:53:39+02:00</lastmod>
+  </url><url>
+    <loc>/games/zurin_the_spirit_walker/</loc>
+    <lastmod>2025-06-10T12:52:33+02:00</lastmod>
+  </url><url>
+    <loc>/games/diablo_demake_80/</loc>
+    <lastmod>2025-06-10T12:51:31+02:00</lastmod>
+  </url><url>
+    <loc>/games/moi_dans_une_superbe_aventure/</loc>
+    <lastmod>2025-06-10T12:49:51+02:00</lastmod>
+  </url><url>
+    <loc>/games/super_ball_quest/</loc>
+    <lastmod>2025-06-10T12:48:34+02:00</lastmod>
+  </url><url>
+    <loc>/games/trouve_les_objets/</loc>
+    <lastmod>2025-06-10T12:45:58+02:00</lastmod>
+  </url><url>
+    <loc>/games/fighting_robot/</loc>
+    <lastmod>2025-06-10T12:43:39+02:00</lastmod>
+  </url><url>
+    <loc>/games/potato_shot_up/</loc>
+    <lastmod>2025-06-10T12:42:23+02:00</lastmod>
+  </url><url>
+    <loc>/games/the_kid_in_the_snow/</loc>
+    <lastmod>2025-06-10T12:39:22+02:00</lastmod>
+  </url><url>
+    <loc>/games/space_shoom_rang/</loc>
+    <lastmod>2025-06-10T12:37:58+02:00</lastmod>
+  </url><url>
+    <loc>/games/zombie_attack/</loc>
+    <lastmod>2025-06-10T12:36:34+02:00</lastmod>
+  </url><url>
+    <loc>/games/warrior_machine/</loc>
+    <lastmod>2025-06-10T12:35:21+02:00</lastmod>
+  </url><url>
+    <loc>/games/election/</loc>
+    <lastmod>2025-06-10T12:33:57+02:00</lastmod>
+  </url><url>
+    <loc>/games/radial_clicker/</loc>
+    <lastmod>2025-06-10T12:32:18+02:00</lastmod>
+  </url><url>
+    <loc>/games/sugar_rush/</loc>
+    <lastmod>2025-06-10T12:30:48+02:00</lastmod>
+  </url><url>
+    <loc>/games/spooky_castle/</loc>
+    <lastmod>2025-06-10T12:29:13+02:00</lastmod>
+  </url><url>
+    <loc>/games/breaker/</loc>
+    <lastmod>2025-06-10T10:49:55+02:00</lastmod>
+  </url><url>
+    <loc>/games/</loc>
+    <lastmod>2025-06-10T10:48:14+02:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2025-06-10T10:44:35+02:00</lastmod>
+  </url><url>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2025-06-06T22:05:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-06-06T22:05:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-06T22:05:33+02:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
